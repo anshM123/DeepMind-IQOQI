@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the preprint below."
+title: "Machine-checked solutions of open problems from Formal Conjectures and the IQOQI Open Quantum Problems"
+type: software
+authors:
+  - family-names: Mishra
+    given-names: Ansh
+  - family-names: Senthilkumar
+    given-names: Aryan
+version: "1.0"
+date-released: "2026-09-30"
+license: MIT
+repository-code: "https://github.com/anshM123/DeepMind-IQOQI"
+keywords:
+  - "Formal Conjectures"
+  - "OEIS"
+  - "Wieferich primes"
+  - "Lean 4"
+  - "formal verification"
+preferred-citation:
+  type: article
+  status: preprint
+  title: "Machine-checked solutions of open problems from Formal Conjectures and the IQOQI Open Quantum Problems"
+  authors:
+    - family-names: Mishra
+      given-names: Ansh
+    - family-names: Senthilkumar
+      given-names: Aryan
+  year: 2026
+  month: 9
+  url: "https://github.com/anshM123/DeepMind-IQOQI"

@@ -1,0 +1,8 @@
+n = 9687963167864344937 = 7 * 631 * 881 * 3511^2 * 201961
+odd: True | a(n) = 2 | 2^n == 2^a(n) (mod n): True
+  ord_7(2) = 3 divides n - 2: True
+  ord_631(2) = 45 divides n - 2: True
+  ord_881(2) = 55 divides n - 2: True
+  ord_12327121(2) = 1755 divides n - 2: True
+  ord_201961(2) = 55 divides n - 2: True
+conjecture2 brute force, odd n <= 200000: no candidates
